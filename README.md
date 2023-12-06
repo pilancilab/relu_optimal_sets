@@ -1,4 +1,4 @@
-# ReLU Optimal Sets Poster
+# Optimal Sets and Solution Paths of ReLU Networks 
 
 Code to replicate experiments in the paper [Optimal Sets and Solution Paths of
 ReLU Networks](https://proceedings.mlr.press/v202/mishkin23a.html) by Aaron 
