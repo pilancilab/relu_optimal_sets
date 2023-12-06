@@ -27,6 +27,7 @@ dependencies = [
     "typing_extensions",
     "tqdm",
     "opt_einsum",
+    "matplotlib",
     "linalg_backends",
     "pyscnn @ git+https://git@github.com/pilancilab/scnn@solfns#egg=scnn"
 ]
